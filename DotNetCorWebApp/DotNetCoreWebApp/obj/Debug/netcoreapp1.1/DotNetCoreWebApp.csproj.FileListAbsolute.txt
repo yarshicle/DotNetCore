@@ -1,0 +1,13 @@
+D:\Work\tutorials\ASP.Net Core\WebApplication2\DotNetCoreWebApp\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\tutorials\ASP.Net Core\WebApplication2\DotNetCoreWebApp\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\tutorials\ASP.Net Core\WebApplication2\DotNetCoreWebApp\bin\Debug\netcoreapp1.1\DotNetCoreWebApp.deps.json
+D:\Work\tutorials\ASP.Net Core\WebApplication2\DotNetCoreWebApp\bin\Debug\netcoreapp1.1\DotNetCoreWebApp.runtimeconfig.json
+D:\Work\tutorials\ASP.Net Core\WebApplication2\DotNetCoreWebApp\bin\Debug\netcoreapp1.1\DotNetCoreWebApp.runtimeconfig.dev.json
+D:\Work\tutorials\ASP.Net Core\WebApplication2\DotNetCoreWebApp\bin\Debug\netcoreapp1.1\DotNetCoreWebApp.dll
+D:\Work\tutorials\ASP.Net Core\WebApplication2\DotNetCoreWebApp\bin\Debug\netcoreapp1.1\DotNetCoreWebApp.pdb
+D:\Work\tutorials\ASP.Net Core\WebApplication2\DotNetCoreWebApp\bin\Debug\netcoreapp1.1\YarshLib.dll
+D:\Work\tutorials\ASP.Net Core\WebApplication2\DotNetCoreWebApp\bin\Debug\netcoreapp1.1\YarshLib.pdb
+D:\Work\tutorials\ASP.Net Core\WebApplication2\DotNetCoreWebApp\obj\Debug\netcoreapp1.1\DotNetCoreWebApp.csprojResolveAssemblyReference.cache
+D:\Work\tutorials\ASP.Net Core\WebApplication2\DotNetCoreWebApp\obj\Debug\netcoreapp1.1\DotNetCoreWebApp.AssemblyInfo.cs
+D:\Work\tutorials\ASP.Net Core\WebApplication2\DotNetCoreWebApp\obj\Debug\netcoreapp1.1\DotNetCoreWebApp.dll
+D:\Work\tutorials\ASP.Net Core\WebApplication2\DotNetCoreWebApp\obj\Debug\netcoreapp1.1\DotNetCoreWebApp.pdb

@@ -1,0 +1,13 @@
+D:\Work\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.deps.json
+D:\Work\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.runtimeconfig.json
+D:\Work\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.runtimeconfig.dev.json
+D:\Work\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.dll
+D:\Work\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.csprojResolveAssemblyReference.cache
+D:\Work\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.AssemblyInfo.cs
+D:\Work\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.pdb
+D:\Work\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.dll
+D:\Work\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.pdb
+D:\Work\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\YarshLib.dll
+D:\Work\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\YarshLib.pdb
